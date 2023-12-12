@@ -44,6 +44,12 @@ Get hands-on experience with AI through a series of practical exercises. Learn h
 
 All notebooks are available in [/lab](./lab/) repository. 
 
+
+## What from here? 
+
+If you want to go further and do not know what course to take next, this great [blog post](https://blog.lewagon.com/skills/how-to-learn-artificial-intelligence-from-scratch/) from @lewagon might answer all your question, just as it did mines.  
+
+
 ## References
 
 - [Course link - Le Wagon](https://start.lewagon.com/courses/intro-to-artificial-intelligence)
@@ -68,6 +74,8 @@ ML API:
 
 - Facebook Prophet: https://facebook.github.io/prophet/docs/quick_start.html
 
+Papers:
 
+- 
 
 

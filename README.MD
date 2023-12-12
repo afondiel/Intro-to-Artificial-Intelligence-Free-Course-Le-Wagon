@@ -40,6 +40,9 @@ Get hands-on experience with AI through a series of practical exercises. Learn h
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Prophet (Facebook)](https://facebook.github.io/prophet/docs/quick_start.html)
 
+## Notebooks
+
+All notebooks are available in [/lab](./lab/) repository. 
 
 ## References
 
